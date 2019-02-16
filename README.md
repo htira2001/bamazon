@@ -25,6 +25,7 @@ The Bamazon Customer Portal allows users to view and edit the inventory of the s
 * View low inventory
 * Add to inventory
 * Add a new product
+***
 ![picture](./assets/bamazonManager.JPG)
 #### Contributors:
 Helmi Tira [GitHub](https://github.com/htira2001)
