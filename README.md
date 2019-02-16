@@ -16,7 +16,7 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 ***
 ![picture](./assets/bamazon2.JPG)
 ***
-![picture](./assets/bamazon table.JPG)
+![picture](./assets/bamazonTable.JPG)
 ***
 ### Bamazon Manager Portal
 ***
