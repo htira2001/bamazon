@@ -18,6 +18,7 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 ***
 ![picture](./assets/bamazonTable.JPG)
 ***
+![picture](./assets/bamazon3.JPG)
 ### Bamazon Manager Portal
 ***
 The Bamazon Customer Portal allows users to view and edit the inventory of the store. The user will be prompted to choose from the following options:
