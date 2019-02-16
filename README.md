@@ -13,10 +13,10 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 ***
 
 * The Bamazon Customer Portal allows users to view the current items available for purchase.  The user will be prompted to enter the item id# and how many items they wish to purchase.  If the item is in stock, the order will be completed and the user will see the total amount of their purchase
-![picture](./assets/bamazon table.JPG)
+***
 ![picture](./assets/bamazon2.JPG)
-![picture](./assets/bamazon 3.JPG)
-
+***
+![picture](./assets/bamazon table.JPG)
 ***
 ### Bamazon Manager Portal
 ***
